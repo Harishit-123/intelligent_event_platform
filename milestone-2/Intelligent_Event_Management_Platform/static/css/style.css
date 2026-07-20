@@ -1,0 +1,23 @@
+.hero-about{
+
+    background:linear-gradient(90deg,#2563eb,#9333ea,#d946ef);
+
+    border-radius:20px;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.15);
+
+}
+
+.hero-about h1{
+
+    font-size:3rem;
+
+    font-weight:700;
+
+}
+
+.hero-about p{
+
+    font-size:18px;
+
+}
